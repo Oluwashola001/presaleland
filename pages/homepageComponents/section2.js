@@ -14,7 +14,7 @@ export default function Section2()
             <section id="section2" className="flex items-center justify-center h-fit min-h-screen bg-fixed bg-center bg-cover bg-[url('/images/bg/12.jpg')]">
                 <div className="text-center">
                     <div className="box-cont h-fit w-fit mt-[10%] px-14 mb-10 py-8 shadow-md bg-gradient-to-r from-neutral-900 rounded-lg">
-                        <h5 className="uppercase text-red-600 font-bold">Ac tellus dapibus:</h5>
+                        <h5 className="uppercase text-red-600 font-bold">to be updated</h5>
                         <h5 className="lowercase text-white font-bold">Eget varius erat blandit. Curabitur consequat a elit sagittis posuere.</h5>
                         <div className="flex items-center justify-center mb-6 mt-5">
                         <iframe className="md:w-[350px] md:h-[350px] h-[250px] w-[250px]"
